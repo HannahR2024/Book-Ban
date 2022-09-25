@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:rgb(157, 181, 178);
+}
+.header{
+background-color:rgb(72, 87, 115); 
+font-family: Century Gothic, sans-serif;
+font-size:32px
+text-align:left;
+padding: 30px;
+font-weight: bold;
+font-size: 40px;  
+margin: 20px;
+}
+
+.ban-button{
+  background-color: rgb(74, 88, 89);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius:10px;
+  cursor: pointer;
+  margin-left: 700px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align:center;
+}
+
+.intro{
+  font-family: Century Gothic, sans-serif;
+  text-align:center; 
+  padding: 15px;
+}
+
+.library{
+  text-align:center;
+  font-family: Century Gothic, sans-serif;
+}
+
+.paragraphdiv{
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.title{
+  text-align: center;
+}
+
+.lis{
+  font-family: Century Gothic, sans-serif;
+  font-size: 20px;
+}
